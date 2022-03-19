@@ -8,7 +8,7 @@ namespace BlazorEcommerce.Server.Controllers
 
 
 
-    0[Route("api/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
 
     public class ProductController : ControllerBase
