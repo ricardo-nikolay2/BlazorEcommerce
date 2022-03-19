@@ -21,3 +21,4 @@ D:\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Share
 D:\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.dll
 D:\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\ref\BlazorEcommerce.Shared.dll
 D:\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.pdb
+D:\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.csproj.AssemblyReference.cache
